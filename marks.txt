@@ -1,0 +1,4 @@
+math-th : 10.0
+bio-th : 10.0
+math-hh : 10.0
+bio-hh : 10.0
